@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; 
+    background-color: #333333;
+}
+div{   
+    width: 200px;
+    height: 40px;
+    margin: auto;
+}
+H3{
+    color: #08d3e8;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+    margin-top: auto;
+}
+
+.input-button{    
+    border: 2px solid #1e8dab;
+    background-color: #333333;
+    border-radius: 10px;
+    color: #08d3e8;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+}
+.input-text{
+    border: 2px solid #1e8dab;
+    background-color: #333333;
+    border-radius: 10px;
+    color: #08d3e8;
+    width: 250px;
+    height: 30px;  
+}
+

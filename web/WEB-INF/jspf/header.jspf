@@ -1,0 +1,29 @@
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+<html>
+<head>
+    
+  <title>
+    company
+  </title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+
+</head>
+<body>
+<div class="company">
+  <div class="head_block">
+    <h3>Staff management</h3>
+  </div>
+
+  <div class="menu">
+    <ul>
+      <li><a href="department.jsp"><button>Department</button></a></li>
+      <li><a href="employee.jsp"><button>Employee</button></a></li>
+      <li><a href="addDepartment.jsp"><button>Add department</button></a></li>
+      <li><a href="addEmployee.jsp"><button>Add employee</button></a></li>
+      <li><a href="deleteDepartment.jsp"><button>Delete department</button></a></li>
+      <li><a href="deleteEmployee.jsp"><button>Delete employee</button></a></li>
+    </ul>
+  </div>
+<div class="pages"> 
